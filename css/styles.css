@@ -72,6 +72,7 @@ body, html {
     text-align: center;
     flex-direction: column;
     padding: 10px;
+    z-index: 1000;
 }
 
 .mobile-menu a {
